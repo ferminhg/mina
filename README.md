@@ -1,0 +1,2 @@
+# mina
+Mina. Daily management
